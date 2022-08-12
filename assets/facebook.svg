@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.2411439mm"
+   height="3.24107mm"
+   viewBox="0 0 3.2411439 3.24107"
+   version="1.1"
+   id="svg380"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="facebook.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview382"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70733726"
+     inkscape:cx="48.067594"
+     inkscape:cy="98.962693"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs377" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-92.267339,-122.19182)">
+    <path
+       d="m 95.508483,122.37264 c 0,-0.0506 -0.0217,-0.0941 -0.05789,-0.13022 -0.03617,-0.0289 -0.07956,-0.0506 -0.122979,-0.0506 h -2.879407 c -0.05789,0 -0.101283,0.0217 -0.130228,0.0506 -0.03617,0.0362 -0.05064,0.0796 -0.05064,0.13022 v 2.87941 c 0,0.0506 0.01447,0.0941 0.05064,0.13023 0.02895,0.0362 0.07234,0.0506 0.130228,0.0506 h 1.548236 v -1.25883 h -0.419629 v -0.48472 h 0.419629 v -0.36174 c 0,-0.20259 0.05786,-0.36174 0.173619,-0.47749 0.115756,-0.10853 0.267679,-0.1664 0.455798,-0.1664 0.144674,0 0.274902,0.007 0.376185,0.0145 v 0.4413 h -0.26043 c -0.09406,0 -0.159173,0.0217 -0.195342,0.0651 -0.02895,0.0362 -0.04342,0.0941 -0.04342,0.17364 v 0.3111 h 0.484717 l -0.06509,0.48472 h -0.419629 v 1.25883 h 0.824759 c 0.05064,0 0.09406,-0.0145 0.130228,-0.0506 0.02895,-0.0362 0.05064,-0.0796 0.05064,-0.13023 z"
+       fill="#ffffff"
+       id="path10"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>
